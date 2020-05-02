@@ -153,7 +153,7 @@ p {
     margin-right: auto;
     margin-left: auto;
 	position: relative;
-	border: 2px solid black;
+	border: 1px solid black;
 	overflow: hidden;
     background-color: gray;
 }
@@ -165,7 +165,7 @@ p {
     height:40px;
 	background-color:lightcoral;
 	text-align: center;
-    border: 2px solid black;
+    border: 1px solid black;
     font-size: 25px;
     color: black;
     font-family: cursive;
@@ -178,7 +178,7 @@ p {
     height:40px;
 	background-color: red;
 	text-align: center;
-    border: 2px solid black;
+    border: 1px solid black;
     font-size: 25px;
     color: white;
     font-family: cursive;
@@ -191,7 +191,7 @@ p {
     height:40px;
 	background-color: yellow;
 	text-align: center;
-    border: 2px solid black;
+    border: 1px solid black;
     font-size: 25px;
     color: black;
     font-family: cursive;
